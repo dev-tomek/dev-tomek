@@ -2,5 +2,5 @@
 
 ![Tomek's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhhtomek&show_icons=true&theme=radical)
 
-What I know:
-<code><img height=40 width=20 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+Languages & Tools that I use:
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
