@@ -1,6 +1,6 @@
 ### Hi there, I'm Tomek 👋
 
-![Tomek's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhhtomek&show_icons=true&theme=github_dark)
+![Tomek's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhhtomek&show_icons=true&theme=codeSTACKr)
 
 <h2>Areas of interest</h2>
 <img align="left" alt="Python" width="26px" src="https://cdn2.iconfinder.com/data/icons/business-management-1-5/66/92-512.png">
