@@ -11,6 +11,7 @@
 <img align="left" alt="seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
 <img align="left" alt="pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
 <img align="left" alt="sickit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+<img align="left" alt="SQLserver" width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
 </br>
 
 <h3>That I am familiar with:</h3>
@@ -20,6 +21,7 @@
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg">
 <img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
 <img align="left" alt="Haskell" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg">
+</br>
 
 <h3>That I am yet to learn:</h3>
 <img align="left" alt="tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
