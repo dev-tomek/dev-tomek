@@ -15,7 +15,7 @@ Data Science - Data Engineering - Data Analysis - Machine Learning - Artificial 
 <img align="left" alt="seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
 <img align="left" alt="pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
 <img align="left" alt="sickit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-<img align="left" alt="numpy" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg">
+<img align="left" alt="numpy" width="26px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png">
 <img align="left" alt="SQLserver" width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
 <img align="left" alt="selenium" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
 <img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
