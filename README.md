@@ -4,7 +4,7 @@
 
 <h2>Areas of interest</h2>
 <img align="left" alt="Python" width="26px" src="https://cdn2.iconfinder.com/data/icons/business-management-1-5/66/92-512.png">
-Data Science, Data Engineering, Data Analysis, Statistics, Artificial Intelligence
+Data Science - Data Engineering - Data Analysis - Machine Learning - Artificial Intelligence - Statistics
 
 <h2>Languages & Tools</h2>
 <h3>That I use:</h3>
@@ -18,7 +18,6 @@ Data Science, Data Engineering, Data Analysis, Statistics, Artificial Intelligen
 <img align="left" alt="SQLserver" width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
 <img align="left" alt="selenium" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
 <img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
-<img align="left" alt="matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
 </br>
 
 <h3>That I am familiar with:</h3>
@@ -30,6 +29,7 @@ Data Science, Data Engineering, Data Analysis, Statistics, Artificial Intelligen
 <img align="left" alt="Haskell" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg">
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img align="left" alt="matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
 </br>
 
 <h3>That I am yet to learn:</h3>
