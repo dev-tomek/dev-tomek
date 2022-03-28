@@ -10,8 +10,7 @@ Languages & Tools that I use: </br></br>
 </br>
 
 Languages & Tools that I am familiar with: </br></br>
-
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg>"
+<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg>">
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg">
 <img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
 <img align="left" alt="Haskell" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg">
