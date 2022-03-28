@@ -6,7 +6,7 @@
 <img align="left" alt="Python" width="26px" src="https://cdn2.iconfinder.com/data/icons/business-management-1-5/66/92-512.png">
 Data Science - Data Engineering - Data Analysis - Machine Learning - Artificial Intelligence - Statistics
 
-<h2>Languages & Tools</h2>
+<h2>Languages and Tools</h2>
 <h3>That I use:</h3>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
