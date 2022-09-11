@@ -21,6 +21,7 @@ Data Science - Data Engineering - Data Analysis - Machine Learning - Artificial 
 <img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
 </br>
 
 <h3>That I am familiar with:</h3>
@@ -28,7 +29,6 @@ Data Science - Data Engineering - Data Analysis - Machine Learning - Artificial 
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg">
-<img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
 <img align="left" alt="Haskell" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg">
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img align="left" alt="matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
