@@ -19,7 +19,6 @@ Data Science - Data Engineering - Data Analysis - Machine Learning - Artificial 
 <img align="left" alt="SQLserver" width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
 <img align="left" alt="selenium" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
 <img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
-<img align="left" alt="AWS" width="26px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </br>
 
