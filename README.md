@@ -37,7 +37,7 @@ Data Science - Data Engineering - Data Analysis - Machine Learning - Artificial 
 <img align="left" alt="matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
 <img align="left" alt="matlab" width="26px" src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png">
 <img align="left" alt="Redis" width="26px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png">
-<img align="left" alt="Mongo" width="26px" src="https://user-images.githubusercontent.com/25181517/182884177d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">
+<img align="left" alt="Mongo" width="26px" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">
 
 </br>
 
