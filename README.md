@@ -23,8 +23,7 @@ Data Science - Data Engineering - Data Analysis - Machine Learning - Artificial 
 <img align="left" alt="jupyter" width="26px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png">
 <img align="left" alt="docker" width="26px" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
 <img align="left" alt="tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
-<img align="left" alt="tensorflow" width="26px" src="https://userimages.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png">
-<img align="left" alt="selenium" width="26px" src="https://userimages.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png">
+<img align="left" alt="selenium" width="26px" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png">
 
 </br>
 
