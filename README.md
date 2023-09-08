@@ -4,7 +4,7 @@
 
 <h2>Areas of interest</h2>
 <img align="left" alt="Python" width="26px" src="https://cdn2.iconfinder.com/data/icons/business-management-1-5/66/92-512.png">
-Data Science - Data Engineering - Data Analysis - Machine Learning - Artificial Intelligence - Statistics
+Data Science - Data Engineering - Data Analysis - Machine Learning - Artificial Intelligence - Deep Learning - Statistics - Backend engineering
 
 <h2>Languages and Tools</h2>
 <h3>That I use:</h3>
@@ -17,6 +17,7 @@ Data Science - Data Engineering - Data Analysis - Machine Learning - Artificial 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img align="left" alt="docker" width="26px" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png">
 </br>
 
 <h3>That I am familiar with:</h3>
